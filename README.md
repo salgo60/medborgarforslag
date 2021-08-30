@@ -14,7 +14,8 @@ Försök att samla ihop alla kommuner som har medborgarförslag. Lesson learned
   * [karta kommuner utan](https://w.wiki/3dqs)  
 
 ## Diffar [www.medborgarforslag.nu](http://www.medborgarforslag.nu/projects#)
-Jämförde med Wikidata och korrigerade
+Jämförde med Wikidata och korrigerade.
+
 Nedan poster där jag inte hittade websida om medborgarförslag men fanns med i lista hos www.medborgarforslag.nu
 
 |kommun              |officiell webbplats       |WD      |URL för medborgarförslag|
