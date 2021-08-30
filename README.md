@@ -10,8 +10,8 @@ Försök att samla ihop alla kommuner som har medborgarförslag. Lesson learned
 
 ## Wikidata ##
 * egenskap Wikidata [Property:P9732](https://www.wikidata.org/wiki/Property:P9732)
-* [karta i Sverige för kommuner](https://w.wiki/3yyH)
-  * [karta kommuner utan](https://w.wiki/3dqs) wikidata egenskap P9732 
+* [karta i Sverige för kommuner](https://w.wiki/3z5Q)
+  * [karta kommuner utan](https://w.wiki/3z5K) wikidata egenskap P9732 
 
 ## Diffar [www.medborgarforslag.nu](http://www.medborgarforslag.nu/projects#)
 Jämförde med Wikidata och korrigerade.
