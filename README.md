@@ -1,5 +1,12 @@
 # Medborgarförslag
-Försök att samla ihop alla kommuner som har medborgarförslag
+Försök att samla ihop alla kommuner som har medborgarförslag. Lesson learned
+* saknas API att 
+  * skicka in Medborgarförslag
+  * hämta ut Medborgarförslag
+  * att hämta ut Medborgarförslag av viss typ eller plats
+    * saknas bra översikter vad som skickas in, vad som beslutas, om vad medborgare önskar beslut 
+* är idag princip 290 olika sätt att implementera [kommunallagen](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725)
+* finns kommuner som verkar ta emot **Medborgarförslag** men har ingen websida om detta
 
 ## Wikidata ##
 * egenskap Wikidata [Property:P9732](https://www.wikidata.org/wiki/Property:P9732)
