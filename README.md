@@ -9,7 +9,7 @@ Försök att samla ihop alla kommuner som har medborgarförslag. Lesson learned
 * finns kommuner som verkar ta emot **Medborgarförslag** men har ingen websida om detta
 
 ## Wikidata ##
-* egenskap Wikidata [Property:P9732](https://www.wikidata.org/wiki/Property:P9732)
+* egenskap Wikidata [Property:P9732](https://www.wikidata.org/wiki/Property:P9732) - "URL för medborgarförslag, URL för tjänst där medborgare can starta upprop eller lämna förslag" 
 * [karta i Sverige för kommuner](https://w.wiki/3z5Q)
   * [karta kommuner utan](https://w.wiki/3z5K) wikidata egenskap P9732 
 
