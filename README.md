@@ -11,7 +11,7 @@ Försök att samla ihop alla kommuner som har medborgarförslag. Lesson learned
 
 ## Wikidata ##
 * egenskap Wikidata [Property:P9732](https://www.wikidata.org/wiki/Property:P9732) - "URL för medborgarförslag, URL för tjänst där medborgare can starta upprop eller lämna förslag" 
-* [karta i Sverige för kommuner](https://w.wiki/3z5Q)
+* [karta i Sverige för kommuner](https://w.wiki/3z5Q) / [lista](https://w.wiki/3$wk)
   * [karta kommuner utan](https://w.wiki/3z5K) wikidata egenskap P9732 
 
 ## Diffar [www.medborgarforslag.nu](http://www.medborgarforslag.nu/projects#)
