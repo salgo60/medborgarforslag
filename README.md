@@ -12,7 +12,7 @@ Försök att samla ihop alla kommuner som har medborgarförslag. Lesson learned
 ## Wikidata ##
 * egenskap Wikidata [Property:P9732](https://www.wikidata.org/wiki/Property:P9732) - "URL för medborgarförslag, URL för tjänst där medborgare can starta upprop eller lämna förslag" 
 * [karta i Sverige för kommuner](https://w.wiki/3z5Q) / [lista](https://w.wiki/3$wk) / [Jupyter](https://github.com/salgo60/medborgarforslag/blob/main/Jupyter/Medborgarf%C3%B6rslag%20WIkidata.ipynb)
-  * [karta kommuner utan](https://w.wiki/3z5K) wikidata egenskap P9732 dvs. vi har inte gittat spår av medborgarförslag på deras web = 76 kommuner
+  * [karta kommuner utan](https://w.wiki/3z5K) wikidata egenskap P9732 dvs. vi har inte hittat spår av medborgarförslag på deras web = 76 kommuner
   * inga kommuner verkar ha API 
 
 ## Diffar [www.medborgarforslag.nu](http://www.medborgarforslag.nu/projects#)
