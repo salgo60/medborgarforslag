@@ -7,7 +7,7 @@ Försök att samla ihop alla kommuner som har medborgarförslag. Lesson learned
     * saknas bra översikter vad som skickas in, vad som beslutas, om vad medborgare önskar beslut 
 * är idag princip 290 olika sätt att implementera [kommunallagen](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/kommunallag-2017725_sfs-2017-725)
 * finns kommuner som verkar ta emot **Medborgarförslag** men har ingen websida om detta
-* 2005 skrev Sveriges Kommuner och Lnadsting ["Förenklad hantering av medborgarförslag"](https://skr.se/download/18.14995aea175214466cfbf75/1602843763296/07042.pdf)
+* 2007 skrev Sveriges Kommuner och Lnadsting ["Förenklad hantering av medborgarförslag"](https://skr.se/download/18.14995aea175214466cfbf75/1602843763296/07042.pdf)
 
 ## Wikidata ##
 * egenskap Wikidata [Property:P9732](https://www.wikidata.org/wiki/Property:P9732) - "URL för medborgarförslag, URL för tjänst där medborgare can starta upprop eller lämna förslag" 
